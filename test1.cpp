@@ -4,7 +4,7 @@ using namespace std;
 class Student
 {
 private:
-	inr num;
+	int num;
 public:
 	void SetNum(int a){num = a;}
 	int GetNum(){return num;}
